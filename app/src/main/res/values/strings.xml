@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mvp_retrofit_rxjava</string>
+    <string name="top">头条</string>
+    <string name="nba">NBA</string>
+    <string name="cars">汽车</string>
+    <string name="jokes">笑话</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
